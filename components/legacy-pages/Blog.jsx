@@ -410,7 +410,7 @@ export default function Blog() {
                   <a href="https://github.com/luxjson" target="_blank" rel="noopener noreferrer" className="sh-social-link" aria-label="GitHub">
                     <i className="fab fa-github"></i>
                   </a>
-                  <a href="https://instagram.com/luxjson" target="_blank" rel="noopener noreferrer" className="sh-social-link" aria-label="Instagram">
+                  <a href="https://instagram.com/itslucasdev" target="_blank" rel="noopener noreferrer" className="sh-social-link" aria-label="Instagram">
                     <i className="fab fa-instagram"></i>
                   </a>
                   <a href="https://linkedin.com/in/luxjson" target="_blank" rel="noopener noreferrer" className="sh-social-link" aria-label="LinkedIn">
